@@ -6,3 +6,14 @@ sky:
     database: sky_take_out
     username: root
     password: qwe147258369
+  alioss:
+    endpoint: oss-cn-beijing.aliyuncs.com
+    access-key-id: LTAI5t7Nsc1qZd8CQp2hMsr6
+    access-key-secret: JPC5Kfp43Qp55QqKTJYaS0Urh4E0BC
+    bucket-name: java-web-chaotuo
+  redis:
+    host: localhost
+    port: 6379
+    password: qwe147258369
+    database: 10
+
